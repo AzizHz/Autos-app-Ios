@@ -11,11 +11,11 @@ an ios mobile application for tradiing off-road cars this app allows you to comm
 ## Libraries
 - Soket-io
 -SwiftUi
-  Bring power of ReactiveX to Swift
+  
 
 - Kingfisher: Set and cache image simply  with URL
-- IQKeyboardManagerSwift: Automatic handle keyboard on ScrollView.
-- SnapKit: Autolayout easy than ever.
+
+
 
 ## How to run
 - Install cocoapods if you MAC didn't `brew install cocoapods`
